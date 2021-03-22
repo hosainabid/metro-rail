@@ -1,0 +1,15 @@
+.destinationBG{
+    text-align: center;
+    margin: 0 auto;
+}
+
+@media only screen and (max-width: 769px) {
+    .destinationBG{
+        text-align: center;
+        margin: 0 auto;
+        font-weight: bold;
+    }
+    .destinationBG img{
+        width: 50%;
+    }
+  }

@@ -1,0 +1,21 @@
+[{
+    "ticketId": 1,
+    "ticketType": "ONE DAY PASS",
+    "price": 100,
+    "packageImg": "https://i.ibb.co/sQpNV1t/package-1.png"
+  }, {
+    "ticketId": 2,
+    "ticketType": "WEEKLY PASS",
+    "price": 500,
+    "packageImg": "https://i.ibb.co/m6HTX2W/package-2.png"
+  }, {
+    "ticketId": 3,
+    "ticketType": "MONTHLY PASS",
+    "price": 1500,
+    "packageImg": "https://i.ibb.co/4KW7PFg/package-3.png"
+  }, {
+    "ticketId": 4,
+    "ticketType": "ANNUAL PASS",
+    "price": 9000,
+    "packageImg": "https://i.ibb.co/zmT4HXP/package-4.png"
+  } ]

@@ -1,0 +1,55 @@
+form input{
+    float: left;
+    margin-bottom: 10px;
+}
+.login-bg{
+    background: url('../../images/login-bg.jpg');
+    height: 1000px;
+    padding: 40px;
+}
+form label{
+    color: white;
+    font-weight: bold;
+}
+.form-style{
+    height: 230px;
+}
+.btn-style{
+    padding: 15px 40px;
+    background: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.signup-form{
+    width: 40%;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.formDivStyle{
+    margin: 0 auto;
+    padding: 10px;
+    background:#7A36A7;
+    background: -webkit - linear - gradient(top left, #7A36A7, #614A53);
+    background: -moz - linear - gradient(top left, #7A36A7, #614A53);
+    background: linear - gradient(to bottom right, #7A36A7, #614A53);
+    vertical-align: middle;
+}
+
+@media only screen and (max-width: 800px) {
+    .signup-form{
+        width: 70%;
+        border-radius: 10px;
+        margin-top: 20px;
+    }
+  }
+
+  @media only screen and (max-width: 500px) {
+    .signup-form{
+        width: 80%;
+        border-radius: 10px;
+        margin-top: 20px;
+    }
+  }
+  
